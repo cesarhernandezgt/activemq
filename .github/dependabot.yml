@@ -10,3 +10,4 @@ updates:
     schedule:
       interval: "daily"
     target-branch: "activemq-5.17.x-TT.x-patch" 
+    open-pull-requests-limit: 0 #This option has no impact on security updates, which have a separate, internal limit of ten open pull requests.
