@@ -88,7 +88,7 @@
     <owasp-dependency-check-version>7.1.1</owasp-dependency-check-version>
     <mqtt-client-version>1.16</mqtt-client-version>
     <org-apache-derby-version>10.15.2.0</org-apache-derby-version>
-    <osgi-version>6.0.0</osgi-version>
+    <osgi-version>7.0.0</osgi-version>
     <linkedin-zookeeper-version>1.4.0</linkedin-zookeeper-version>
     <zookeeper-version>3.4.14</zookeeper-version>
     <qpid-proton-version>0.33.10</qpid-proton-version>
